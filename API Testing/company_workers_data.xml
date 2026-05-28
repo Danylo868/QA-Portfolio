@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <workers>  
+        <worker>
+        <id>1</id>
+        <firstName>Artem</firstName>
+        <lastName>Shevchuk</lastName>
+         <status>work experience 2 years</status>
+        <address>
+        <country>Ukraine</country>
+        <city>Bucha</city>
+        <street>Shevchenko Street</street>
+        <houseNumber>15</houseNumber>
+        <apartmentNumber>6</apartmentNumber>
+        </address>
+        <contacts>
+            <phone>+380 67 123 45 67</phone>
+            <email>skywalker82@gmail.com</email>
+            <telegram>@dark_wolf82</telegram>
+        </contacts>
+            
+        </worker>
+        
+        <worker> 
+        <id>2</id>
+        <firstName>Ivan</firstName>
+        <lastName>Ivanov</lastName>
+        <status>trainee 1 week in the company</status>
+        <address>
+        <country>Ukraine</country>
+        <city>Irpin</city>
+        <street>Soborna Street</street>
+        <houseNumber>22</houseNumber>
+        <apartmentNumber>14</apartmentNumber>
+        </address>
+        <contacts>
+            <phone>+380 50 987 65 43</phone>
+            <telegram>@luna_dev17</telegram>
+            <email>ironfox.dev@yahoo.com</email>
+        </contacts>
+        </worker>
+        
+        <worker>
+            <id>3</id>
+            <firstName>Denis</firstName>
+            <lastName>Bondar</lastName>
+            <status>work experience 5 years</status>
+            <address>
+            <country>Canada</country>
+            <city>Toronto</city>
+            <street>Maple Avenue</street>
+            <houseNumber>101</houseNumber>
+            <apartmentNumber>56</apartmentNumber>
+            </address>
+            <contacts>
+                <phone>+1 416 555 23 89</phone>
+                <telegram>@ironfox99</telegram>
+                <email>luna.stars17@outlook.com</email>
+            </contacts>
+        </worker>
+        
+        <worker>
+            <id>4</id>
+            <firstName>Danil</firstName>
+            <lastName>Kovalenko</lastName>
+            <status>works from home</status>
+            <address>
+            <country>Ukraine</country>
+            <city>Kiev</city>
+            <street>Khreshchatyk Street</street>
+            <houseNumber>7</houseNumber>
+            <apartmentNumber>21</apartmentNumber>
+            </address>
+            <contacts>
+                <phone>+380 93 456 78 90</phone>
+                <telegram>null</telegram>
+                <email>maxpower_99@protonmail.com</email>
+            </contacts>
+        </worker>
+        </workers>
+</company>

@@ -1,0 +1,100 @@
+{
+  "restorant" : "pizza_delivery",
+  "delivery" : [
+    { 
+      "client" : {
+        "id" : 1,
+        "firstName" : "Svitlana",
+        "lastName" : "Vasilivna" 
+      },
+      "contacts" : {
+        "telegram" : "@svitlana_2000",
+        "email" : "svitlana82@gmail.com",
+        "telephone" : "+380931234567"
+      },
+      "address" : {
+        "city" : "Kyiv",
+        "street" : "Shevchenka street",
+        "houseNumber" : "10",
+        "apartamentNumber" : "28"
+      },
+      "order" : {
+       "pizza" : "Margarita",
+       "specialRequests" : "extra cheese"
+      }
+      },
+  {
+    "client" : {
+      "id" : 2,
+      "firstName" : "Igor",
+      "lastName" : "Petrov"
+    },
+    "contacts" : {
+      "telegram" : null,
+      "email" : "igor.kyiv@gmail.com",
+      "telephone" : "+380668765432"
+    },
+    "address" : {
+      "city" : "Kyiv",
+      "street" : "Franko street",
+      "houseNumber" : "5",
+      "apartamentNumber" : "18"
+    },
+    "order" : {
+      "pizza" : "Peperoni",
+      "specialRequests" : "soon as possible"
+    }
+    },
+  {
+    "client" : {
+     "id" : 3,
+     "firstName" : "Kiril",
+      "lastName": "Melnik"
+    },
+    "contacts" : {
+      "telegram" : "@igor201",
+      "email" : "kiri11@gmail.com",
+      "telephone" : "+380507654321"
+    },
+    "address" : {
+      "city" : "Kyiv",
+      "street" : "Deribasivska street",
+      "houseNumber" : "8",
+      "apartamentNumber" : "21"
+    },
+   "order": {
+     "pizza" : "Hawaiian",
+     "specialRequests" : null
+   }
+  },
+  {
+    "client" : {
+      "id" : 4,
+      "firstName" : "Kira",
+      "lastName" : "Kalush"
+    },
+    "contacts" : {
+      "telegram" : null,
+      "email" : null,
+      "telephone" : "+380442275555"
+    },
+    "address" : {
+      "city" : "Kyiv",
+      "street" : "Deribasivska street",
+      "houseNumber" : "2",
+      "apartamentNumber" : "16"
+    },
+    "order" : {
+      "pizza" : "Caeser",
+      "specialRequests" : "order at 11 o'clock"
+    }
+  }
+  ]
+  }
+    
+  
+    
+  
+  
+    
+  
