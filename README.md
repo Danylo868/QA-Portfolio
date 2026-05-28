@@ -12,6 +12,8 @@ Junior QA Engineer portfolio with manual testing, API testing, SQL practice, Pos
 - Jira
 - Trello
 - TestRail
+- JSON
+- XML
 
 ## Repository Contents
 
